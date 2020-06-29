@@ -1,6 +1,6 @@
 let fs = require("fs");
 let db = require("../db/db.json");
-const { v4: uuidv4 } = require("uuid");
+let { v4: uuidv4 } = require("uuid");
 
 
 module.exports = function (app) {
@@ -18,7 +18,7 @@ module.exports = function (app) {
             text: req.body.text,
             id: noteId
         }
-        fs.readFile("./db/db.json", "utf8", (err, jsonString) =>{
+        fs.readFile("./db/db.json", "utf8", (err, jsonString) => {
             let noteData = JSON.parse(jsonString);
             noteData.push(newNote);
             fs.writeFile("./db/db.json", JSON.stringify(noteData, null, 2), err => {
