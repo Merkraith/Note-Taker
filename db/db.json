@@ -1,66 +1,12 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
+    "title": "New note",
+    "text": "yeah\n",
+    "id": "33f285a5-088a-489b-a92c-d0f550a8a462"
   },
   {
-    "title": "sdfsdf",
-    "text": "sdfsdf",
-    "id": "0b1a75b5-9b9a-4be2-9f5f-624a0947f8ae"
-  },
-  {
-    "title": "sdfsdfsdf",
-    "text": "sdfsd",
-    "id": "dc58681b-ce9d-420d-bdf7-dc6df2621a40"
-  },
-  {
-    "title": "dsfsdf",
-    "text": "sdfsdf",
-    "id": "8ffa1ffc-314e-47fc-bc8b-2c43eb53f6c7"
-  },
-  {
-    "title": "sdfsd",
-    "text": "sdfsdf",
-    "id": "80cd782a-bfe0-44ee-9f6c-c367f161bcc1"
-  },
-  {
-    "title": "hey hey",
-    "text": "hey blah bllah blah\n\n\n",
-    "id": "3b0ce889-8c6e-4d41-8cab-e5deddc2c900"
-  },
-  {
-    "title": "lskdjf",
-    "text": "lskdjf'laksdf\n",
-    "id": "c9d00be2-0dcd-464d-b384-a6e2c2a004af"
-  },
-  {
-    "title": "sdfsdf",
-    "text": "sdfsdf",
-    "id": "a0befde5-2768-40c8-ae09-ab4358022aa2"
-  },
-  {
-    "title": "hehy heyewou",
-    "text": "poop poop\n\n\n",
-    "id": "1d17f363-6398-4ee5-b7b4-bacf71e6e647"
-  },
-  {
-    "title": "note",
-    "text": "note note note",
-    "id": "e1db7725-c540-4714-bf7a-25623533cba3"
-  },
-  {
-    "title": "dfsd",
-    "text": "dfsdf",
-    "id": "a98c9490-a283-4e8c-8070-1c7850327a86"
-  },
-  {
-    "title": "sdfsdf",
-    "text": "sdfsdfsdf",
-    "id": "0c19d551-4902-4267-88fa-53de5ef879ce"
-  },
-  {
-    "title": "sdfsdf",
-    "text": "sdfsdfsdf",
-    "id": "5d3010c8-7dfd-4ed6-bfd9-5599f849909c"
+    "title": "Next note",
+    "text": "hey hey",
+    "id": "deec19a3-341c-4d99-965a-4d049b75e14f"
   }
 ]
